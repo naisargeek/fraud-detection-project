@@ -311,7 +311,7 @@ MIT License - feel free to use this for your own projects!
 
 ## 📧 Let's Connect
 
-**Tarun Asrani**
+**Naisargi Doshi**
 
 I'm always down to chat about data science, ML projects, or career stuff in tech!
 
